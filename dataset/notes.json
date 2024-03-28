@@ -1,0 +1,29 @@
+{
+  "categories": [
+    {
+      "id": 0,
+      "name": "Na_Kasse"
+    },
+    {
+      "id": 1,
+      "name": "Ne_v_Ocheredi"
+    },
+    {
+      "id": 2,
+      "name": "Personal"
+    },
+    {
+      "id": 3,
+      "name": "Vybiraet"
+    },
+    {
+      "id": 4,
+      "name": "Za_Stolom"
+    }
+  ],
+  "info": {
+    "year": 2024,
+    "version": "1.0",
+    "contributor": "Label Studio"
+  }
+}
