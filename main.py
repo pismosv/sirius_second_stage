@@ -4,7 +4,7 @@ import os
 # Получаем путь рабочей директории
 execution_path = os.getcwd()
 # Путь к файлу с моделью сети
-# Ссылка для скачивания модели:https://imageai.readthedocs.io/en/latest/detection/
+# Ссылка для скачивания модели:https://github.com/OlafenwaMoses/ImageAI/releases/download/3.0.0-pretrained/yolov3.pt/
 model_path = execution_path + "/yolov3_.pt"
 # Путь к файлу с видео
 vide_path_in = execution_path + "/file_full.mp4"
